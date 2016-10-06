@@ -1,12 +1,10 @@
-####################################
-# 4. Data science profile
+# Brian Yu's Data science profile
 
 categories <- c("Computer Programming", "Math", "Statistics", "Machine Learning",
                 "Domain Expertise", "Communication", "Presentation Skills", 
                 "Data Visualization")
 # Show categories's content
 categories
-
 
 ranking <- c(1, 3, 2, 2, 4, 4, 3, 3)
 # Show ranking's content
